@@ -22,11 +22,6 @@ Coffee shop owners/managers often have raw sales data but lack a quick way to un
 - Slicers & Timelines for interactive filtering
 - Dashboard design (charts, KPI cards)
 
-## 📊 Dataset
-- **Source:** [mention where the data is from, e.g., Kaggle, sample dataset, self-generated]
-- **Size:** [e.g., ~150,000 rows, Jan–Jun 2024]
-- **Key columns:** Transaction ID, Date, Time, Store Location, Product Category, Product Name, Quantity, Unit Price, Total Sales
-
 ## 🔍 Key Steps
 1. **Data Cleaning** – Removed duplicates, fixed date/time formats, handled missing values, standardized product names.
 2. **Exploratory Analysis** – Used pivot tables to summarize sales by product, category, store, and time period.
@@ -64,7 +59,29 @@ coffee-shop-sales-analysis/
 3. Use the slicers/filters on the dashboard sheet to explore sales by date, location, or category.
 
 ## 🙋 About Me
-*(Add a short line about yourself and links to your LinkedIn/portfolio)*
+# About Me
+
+Hi, I'm Pradakshina Panchal 👋
+
+I'm a B.Tech graduate in Artificial Intelligence & Data Science, currently looking to start my career as a Data Analyst / Business Analyst. I enjoy working with data to find patterns and turn numbers into decisions that actually make sense to a business.
+
+**What I work with:**
+- 📊 Excel (Pivot Tables, Dashboards, VLOOKUP/XLOOKUP)
+- 🐍 Python (Pandas, NumPy, basic data analysis & visualization)
+- 🗃️ SQL (queries, joins, aggregations)
+- 📈 Power BI (interactive dashboards & reports)
+
+**What I'm currently doing:**
+- Building hands-on projects to apply data analysis concepts to real-world style datasets (check out my Coffee Shop Sales Analysis repo!)
+- Sharpening my SQL and Power BI skills
+- Actively looking for Data Analyst / Business Analyst opportunities
+
+📫 Reach out: panchalpradakshina19@gmail.com | https://www.linkedin.com/in/pradakshina-panchal/
+
+---
+
+
+---
 
 ## 📜 License
 This project is open source and available under the [MIT License](LICENSE).
